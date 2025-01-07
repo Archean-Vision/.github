@@ -1,7 +1,7 @@
 # .github
 # ArcheanVision
 
-![ArcheanVision Logo](https://archeanvision.com/logo.png)
+![ArcheanVision Logo](https://archeanvision.com/assets/archeanvision.png)
 
 Welcome to **ArcheanVision**, your premier platform for advanced financial market analysis and real-time trading signals. Whether you're a developer, trader, or data enthusiast, ArcheanVision provides powerful tools and a robust API to help you integrate sophisticated market insights directly into your applications and workflows.
 
