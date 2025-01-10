@@ -1,4 +1,3 @@
-# .github
 # ArcheanVision
 
 ![ArcheanVision Logo](https://archeanvision.com/assets/archeanvision.png)
